@@ -1,0 +1,52 @@
+.bg-pink{
+    background-color: #E83E8C;
+}
+.icons-section{
+    background-color: #17A2B8;
+}
+footer .icons-section{
+    color:#ffffff;
+    font-size:60px;
+}
+
+footer .bg-pink img{
+    height: 56px;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    font-size: 60px;
+    font-weight: 700;
+    color:#707070;
+    margin: 75px 0 50px;
+}
+.card-title, .card-text, .list-group-item{
+    color: #373A3C;
+}
+.card-title{
+    font-weight: 700;
+    font-size: 17px;
+}
+.card-text{
+    font-size: 16px;
+    font-weight: 400;    
+}
+.list-group-item, .card-link{
+    font-weight: 400;
+    font-size: 11px;
+}
+.card-link{
+color:#1C7CD5
+
+}
+h2{
+    font-weight: 700;
+    font-size: 40px;
+}
+ .card,  .card-title,  .card-text,  .list-group-item{
+    border-color:#DDDDDD;
+}
+.card-img-top{
+    border-color:#001D1D;
+}
